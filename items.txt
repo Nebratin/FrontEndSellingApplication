@@ -1,0 +1,3 @@
+Salam de Vara, 12.45, 1.34, kg, 56
+Carne Tocata, 15.66, 2.05, kg, 22
+Parizer de Pui, 105.66, 4.235, kg, 34
